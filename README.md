@@ -1,7 +1,4 @@
 # horoscoperFinder
-
-
-
 import java.util.Scanner;
 
 public class HoroscopeFinder {
