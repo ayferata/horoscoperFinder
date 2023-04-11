@@ -7,6 +7,7 @@ public class HoroscopeFinder {
         Scanner input = new Scanner(System.in);
         System.out.println("What Is Your Birth Mont?");
         m = input.nextInt();
+        
         System.out.println("What Is Your Birth Day");
         d = input.nextInt();
         if ((m >= 1 && m <= 12) && (d >= 1 && d <= 31)) {
