@@ -1,5 +1,5 @@
 # horoscoperFinder
-//HoroscopeFinder
+
 //@author EmreHatip
 
 import java.util.Scanner;
